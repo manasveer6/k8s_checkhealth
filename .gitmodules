@@ -1,0 +1,6 @@
+[submodule "frontend"]
+	path = frontend
+	url = git@github.com:manasveer6/k8s_checkhealth.frontend.git
+[submodule "backend"]
+	path = backend
+	url = git@github.com:manasveer6/k8s_checkhealth.backend.git
